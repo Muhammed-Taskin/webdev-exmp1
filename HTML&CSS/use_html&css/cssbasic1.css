@@ -1,0 +1,63 @@
+h2 {
+    color: rgb(55, 0, 255);
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: underline;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: brown;
+}
+p {
+    color: blue;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: underline;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: bisque;
+}
+div{
+    color: rgb(0, 255, 119);
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: underline;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: aqua;
+}
+div{
+    background-color: black;
+}
+span{
+    color: rgb(0, 255, 119);
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: underline;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: aqua;
+}
+.firstdiv{
+    color: rgb(17, 0, 255);
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: underline;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: rgb(255, 0, 76);
+}
+#firstp{
+    color: rgb(195, 255, 0);
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: underline;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: rgb(0, 255, 251);
+}
