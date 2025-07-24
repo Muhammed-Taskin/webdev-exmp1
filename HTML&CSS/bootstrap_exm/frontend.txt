@@ -1,0 +1,24 @@
+#Turkish
+Frontend ile uğraşmak istemeyen arkadaşlar için yararlı olacak uygulamalardan biri bootsraptir.
+Bootsrapt html, css ve js kodlarını hazır olarak kendinde tutar.
+Günümüz dünyasında yapay zeka yazılım uygulamalarında frontendin tabutuna bir çivi çakmayı beklerken derinlemesine öğrenmek yerine 
+backendde geliştirme yaparken frontend departmanına sıkıntı çıkarmayacak kadar bilmek gayet yeterli durumdadır.
+Bu sebeple(tek örneği bootsrapt de değildir.) bu tür uygulamalardan yararlanmak daha mantıklı gelmiştir.
+(Bu yazı yazılıma yeni başlayan arkadaşlar için kaleme alınmıştır.)
+Örnek 5 saniyede hazırlanmıştır
+#English
+It is a very useful application for people who do not want to work with frontend.
+It has html, css and js codes ready to use in your code.
+In the world of artificial intelligence and software development, it is expected that a human will have a car in the future.
+However, in the backend development, it is not necessary to know the frontend department.
+This is because (for example, bootstrap is not included in this article.) It is more appropriate to use these applications.
+(For new developers, this article is included in the trash can.)
+this example is prepared in 5 secondsS
+#Kurdish
+Ew serîlêdanek pir bikêrhatî ye ji bo kesên ku naxwazin bi frontendê re bixebitin.
+Kodên html, css û js hene ku amade ne ku di koda we de werin bikar anîn.
+Di cîhana zekaya sûnî û pêşvebirina nermalavê de, tê çaverêkirin ku mirov di pêşerojê de xwediyê otomobîlek be.
+Lêbelê, di pêşvebirina backendê de, ne hewce ye ku meriv beşa frontendê bizanibe.
+wi sebebi (bootsrapt wi wari da teni nine) appen wekhev gelek kerhati ye.
+(Ew nivis ji bo kesên ku hevalan nu destpeke.(eger yek mirov naxwazin bi frontendê re bixebitin) ) 
+Ew minak penc dakkayida çekirin.
