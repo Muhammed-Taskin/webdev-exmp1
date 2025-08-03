@@ -1,0 +1,8 @@
+// SELENIUM KÜTÜPHANESİNİN AMACI
+
+** Selenium kütüphanesi web test otomasonu sağlmak
+**web scraping yani web sayfalarındaki verileri çekerek
+analiz etmemize yarar.
+**Tekrarlayan web işlemlerini otomatikleştirir.
+**Selenium'un handikapı her işi adım adım anlatman ve yaptırman gerekiyor olması.
+** By ise gireceğimiz parametreleri hatasız girmemizi sağlar.
